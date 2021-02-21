@@ -6,7 +6,7 @@
 # Re: Update on Neural Network-Based Projections for Funding Decisions
 #
 # Overview of Project
-## We initiated the development a neural network model in the hope of increasing the favorable outcome of our grants. This model, which leverages all data from our existing project database, has provided moderately accurate results so far. Additional work will be required to increase its accuracy to an appropriate level.
+## We initiated the development a neural network model in the hope of increasing the favorable outcome of our grants. This model, which leverages all data from our existing project database, has provided only moderately accurate results so far. Alternate model structures should be considered to increase its accuracy to an appropriate level.
 #
 # Methodology and Results
 # Data Preprocessing
