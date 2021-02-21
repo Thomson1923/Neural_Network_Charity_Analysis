@@ -23,4 +23,5 @@
 #
 ## Repeated efforts to improve our neural network model did not substantially increase its accuracy. We undertook numerous modifications to the initial model including (1) reducing the number of features considered in the calculations, (2) converting INCOME_AMT from inconsistent quantitative data to consistent categorical data, (3) bucketing several minor AFFILIATIONS into an “other” category, (4) increasing the number of neurons to 150 and (5) changing activation function in the hidden layer. None of these modifications brought our model close to the 75% accuracy target.
 #
-# Summary – The results of our initial work suggest that a neural network model may not offer the best option for meeting our prediction needs. Based on the categorical nature of our data, we suggest a new effort to develop a machine learning model based on logistic regression algorithm to meet our needs.
+# Summary
+## The results of our initial work suggest that a neural network model may not offer the best option for meeting our prediction needs. Based on the categorical nature of our data, we suggest a new effort to develop a machine learning model based on logistic regression algorithm to meet our needs.
